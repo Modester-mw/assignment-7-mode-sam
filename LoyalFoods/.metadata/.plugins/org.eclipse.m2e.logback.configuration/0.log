@@ -1,0 +1,16 @@
+2021-03-13 20:49:49,420 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-03-13 20:58:19,466 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-03-13 21:25:21,841 [Worker-20: Creating project "Loyalfoods"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: LoyalFoods:Loyalfoods:0.0.1-SNAPSHOT @ /Users/foundation/Desktop/LoyalFoods/pom.xml.
+2021-03-13 21:25:22,961 [Worker-20: Creating project "Loyalfoods"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Loyalfoods/src/main/java
+2021-03-13 21:25:22,963 [Worker-20: Creating project "Loyalfoods"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Loyalfoods/src/main/resources
+2021-03-13 21:25:22,964 [Worker-20: Creating project "Loyalfoods"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Loyalfoods/src/test/java
+2021-03-13 21:25:22,965 [Worker-20: Creating project "Loyalfoods"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Loyalfoods/src/test/resources
+2021-03-13 21:25:24,803 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-13 21:25:24,809 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-13 21:25:24,813 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-13 21:25:24,814 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-13 21:27:05,508 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-13 21:27:05,513 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-13 21:27:05,515 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-13 21:27:05,517 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-13 21:29:30,224 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
